@@ -52,5 +52,5 @@ def calculator():
         else:
             print("Invalid input. Please enter a valid choice (1/2/3/4) or 'exit'.")
 
-if _name_ == "_main_":
-    calculator()
+if __name__ == "__main__":
+    calculator()
